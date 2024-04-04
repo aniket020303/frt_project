@@ -11,8 +11,6 @@ Project demo video link: https://youtu.be/N8X2SLImzq0
 
 ->Storage Accounts
 
-->Web apps for containers
-
 ##Features and Functionalities 😃
 
 Interactive and responsive UI.
@@ -47,15 +45,30 @@ Contact
 
 ![image](https://github.com/aniket020303/frt_project/assets/152520375/d8a52b34-e86b-4392-a92a-60719ff337e5)
 
-##Tech Stack 
+Storage account
 
-Azure (Hosting)
+![image](https://github.com/aniket020303/frt_project/assets/152520375/25afaef7-f884-417e-a01c-0eebf59d4754)
+
+Ai-Chatbot
+
+![image](https://github.com/aniket020303/frt_project/assets/152520375/16c4572c-01ab-4a3b-a1ba-1ed1913a05bb)
+
+
+##Tech Stack 
 
 HTML
 
 CSS
 
 JavaScript
+
+Static Web apps 
+
+AI Chatbot
+
+Storage Accounts 
+
+
 
 
 
